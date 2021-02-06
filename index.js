@@ -1,4 +1,7 @@
-const tt = document.querySelector("#h1");
-
+if(10 === 5) {
+    console.log("he")
+}
+else{
+    console.log("z")
 
 }
