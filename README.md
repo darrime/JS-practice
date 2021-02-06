@@ -1,2 +1,2 @@
 # JS-practice (진행중) 
-dddddddddddddddddd
+- 이론 끝
